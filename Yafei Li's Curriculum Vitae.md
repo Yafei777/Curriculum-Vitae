@@ -25,7 +25,7 @@
 
 **LI Yafei**,WANG Leibin,MAO Huiqin,YAN Xiaodong.2016.[Statistical Downscaling of Monthly Mean Temperature for Kazakhstan Using Ridge Regression[J]](http://www.dqkxqk.ac.cn/qhhj/qhhj/ch/reader/view_abstract.aspx?file_no=20160507&flag=1).*Climatic and Environmental Research*(in Chinese),21(5):567-576,doi:10.3878/j.issn.1006-9585.2016.16027.
 
-MAO Liu-xi1, ZHAO Jun-fang1,2*, XU Ling-ling1, YAN Hao1, LI Sen1, **LI Ya-fei**3. [Climatic suitability of spring maize planted in the “sickle bend” area of China and regulation suggestion](http://www.cnki.net/KCMS/detail/21.1253.q.20161101.1539.033.html). Chinese Journal of Applied Ecology(in Chinese), 2016, 27(12): 3935-3943.
+MAO Liu-xi1, ZHAO Jun-fang1,2, XU Ling-ling1, YAN Hao1, LI Sen1, **LI Yafei**3. [Climatic suitability of spring maize planted in the “sickle bend” area of China and regulation suggestion](http://www.cnki.net/KCMS/detail/21.1253.q.20161101.1539.033.html). Chinese Journal of Applied Ecology(in Chinese), 2016, 27(12): 3935-3943.
 
 WANG Rui, **LI Yafei**, ZHANG Lijuan.2015.[WOFOST Model Based on Soil Moisture Driven and its Adaptability](http://zgnyqx.ieda.org.cn/CN/abstract/abstract3286.shtml)[J].*Chinese Journal of Agrometeorology* (in Chinese),36(3):263-271
 
