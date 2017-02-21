@@ -7,7 +7,7 @@
 ## Education
 
 * **PhD candidate**, Global Environmental Change, Beijing Normal University (2014 - present)
-* **Bachelor of Science**, Geographic Information System (GIS) (2010 - 2014)
+* **Bachelor of Science**, Geographic Information System (GIS), Harbin Normal University (2010 - 2014)
 
 
 
@@ -74,4 +74,4 @@ WANG Rui, **LI Yafei**, ZHANG Lijuan.2015.[WOFOST Model Based on Soil Moisture D
 
 ## Hobbies
 
-Playing guitar, basketball, watching movie, reading, and traveling. 
+Playing guitar, basketball, watching movies, reading, and travel. 
