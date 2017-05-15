@@ -21,7 +21,7 @@
 
 ### Journal articles
 
-**Li Y**, Yan X (2017) Statistical downscaling of monthly mean temperature for Kazakhstan in Central Asia. Clim Res 72:101-110. https://doi.org/10.3354/cr01456 
+**Li Y**, Yan X (2017) Statistical downscaling of monthly mean temperature for Kazakhstan in Central Asia. Clim Res 72:101-110. https://doi.org/10.3354/cr01456 [full text](https://www.researchgate.net/publication/313457896_Statistical_downscaling_of_monthly_mean_temperature_for_Kazakhstan_in_Central_Asia)
 
 **LI Yafei**,WANG Leibin,MAO Huiqin,YAN Xiaodong.2016.[Statistical Downscaling of Monthly Mean Temperature for Kazakhstan Using Ridge Regression[J]](http://www.dqkxqk.ac.cn/qhhj/qhhj/ch/reader/view_abstract.aspx?file_no=20160507&flag=1).*Climatic and Environmental Research*(in Chinese),21(5):567-576,doi:10.3878/j.issn.1006-9585.2016.16027.
 
