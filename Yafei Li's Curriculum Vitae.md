@@ -22,7 +22,7 @@
 
 ### Journal articles
 
-Wang, L., Rohli, R. V., Yan, X. and **Li, Y**. (2017), A new method of multi-model ensemble to improve the simulation of the geographic distribution of the Köppen–Geiger climatic types. Int. J. Climatol. doi:10.1002/joc.5150
+Wang, L., Rohli, R. V., Yan, X. and **Li, Y**. (2017), A new method of multi-model ensemble to improve the simulation of the geographic distribution of the Köppen–Geiger climatic types. Int. J. Climatol. [doi:10.1002/joc.5150](http://onlinelibrary.wiley.com/doi/10.1002/joc.5150/abstract#footer-article-info)
 
 **Li Y**, Yan X (2017) Statistical downscaling of monthly mean temperature for Kazakhstan in Central Asia. Clim Res 72:101-110. https://doi.org/10.3354/cr01456 [full text](https://www.researchgate.net/publication/313457896_Statistical_downscaling_of_monthly_mean_temperature_for_Kazakhstan_in_Central_Asia)
 
