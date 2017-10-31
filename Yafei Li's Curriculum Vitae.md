@@ -6,6 +6,7 @@
 
 ## Education
 
+* **PhD Researcher**, Climate Change Impact, Newcastle University, UK (2017 - present)
 * **PhD candidate**, Global Environmental Change, Beijing Normal University (2014 - present)
 * **Bachelor of Science**, Geographic Information System (GIS), Harbin Normal University (2010 - 2014)
 
@@ -20,6 +21,8 @@
 ## Publications
 
 ### Journal articles
+
+Wang, L., Rohli, R. V., Yan, X. and **Li, Y**. (2017), A new method of multi-model ensemble to improve the simulation of the geographic distribution of the Köppen–Geiger climatic types. Int. J. Climatol. doi:10.1002/joc.5150
 
 **Li Y**, Yan X (2017) Statistical downscaling of monthly mean temperature for Kazakhstan in Central Asia. Clim Res 72:101-110. https://doi.org/10.3354/cr01456 [full text](https://www.researchgate.net/publication/313457896_Statistical_downscaling_of_monthly_mean_temperature_for_Kazakhstan_in_Central_Asia)
 
@@ -42,6 +45,7 @@ WANG Rui, **LI Yafei**, ZHANG Lijuan.2015.[WOFOST Model Based on Soil Moisture D
 
 ## Awards
 
+* **Scholarship for Excellent Students of Beijing Normal University**, the first class, Beijing Normal University (2016-2017)
 * **Scholarship for Excellent Students of Beijing Normal University**, the first class, Beijing Normal University (2015-2016)
 * **Scholarship for Excellent Students of Beijing Normal University**, the first class, Beijing Normal University (2014-2015)
 * **Esri Web-GIS Developing Contest**, the second place, Esri-China (2013/10)
