@@ -1,7 +1,7 @@
 # Yafei Li's Curriculum Vitae
 
 * Mobile: +86 13051990707
-* Email: yafei.li[at]mail.bnu.edu.cn
+* Email: liyafei_0707[at]mail.bnu.edu.cn
 * GitHub: https://github.com/Yafei777
 * Blog: https://yafei777.github.io/Yafei-blog/  [in Chinese]
 
